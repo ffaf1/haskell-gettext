@@ -1,4 +1,4 @@
-# 1. Update a translation
+# 1. Update a translation.
 $ hgettext -k __s Menu.hs && cat messages.po
 > /First string./
 
